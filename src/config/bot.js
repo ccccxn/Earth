@@ -543,7 +543,3 @@ export function getRandomColor() {
 }
 
 export default botConfig;
-message.channel.send('⛔ Permission Denied
-You are not allowed to use this command.
-')
-}
