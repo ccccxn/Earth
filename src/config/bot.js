@@ -544,6 +544,12 @@ export function getRandomColor() {
 
 export default botConfig;
 
+if(message.member.roles.cache.has('1499424250174640139')){
+  message.channel.send('kaddnoroles')
 
-
-
+  
+} else {
+message.channel.send('⛔ Permission Denied
+You are not allowed to use this command.
+')
+}
