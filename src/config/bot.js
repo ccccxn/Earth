@@ -543,3 +543,5 @@ export function getRandomColor() {
 }
 
 export default botConfig;
+
+https://discord.com/oauth2/authorize?client_id=1484002931169693827 
